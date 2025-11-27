@@ -1,0 +1,1 @@
+Pushed the half done project since whole to create takes a time and fetched the data from the backend for getallpokemon but faced issue during the pass data to the component so till the half frontend done. UI is also done for the frontend just need to work on the pagination and search and sorting things
